@@ -1,7 +1,8 @@
 # Portfolio
 👋 Hi, I'm Rahman Diki Ardian <br>
 👀 I'm interested in Game Development.<br>
-😁 I'm easy to adapt to new environments<br>
+😁 I'm easy to adapt to new environments. <br>
+📫 Reach me: rahmandikiardian@gmail.com <br>
 -----------------------Game Development-------------------<br>
 💼 Portfolio on Android Marketplace: https://play.google.com/store/apps/dev?id=7165921093297222979&hl=en<br>
 💼 Portfolio on Android Marketplace: https://play.google.com/store/apps/developer?id=Joy+Leap+Innovations<br>
